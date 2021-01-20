@@ -1,0 +1,26 @@
+v0.5.1
+- Small various fixes
+v0.5.0
+- Added Watermarking section in threats with pictures/videos/audios watermarks and printer watermarks within
+v0.4.9
+- Various small spelling/grammar/layout fixes
+- Added some Laptop recommandation and more info about Libreboot and Coreboot
+- Added various references to key disclosure laws 
+- Added guidance to create a mat2-web guest Debian VM for removing metadata from files conveniently
+v0.4.8
+- Various fixes on spelling/grammar and layout
+- Various fixes on KeepassXC sections for Linux/MacOS
+- Added hardening recommendations for Virtualbox
+- Added VPN installation tutorials for Linux/MacOS
+v0.4.7
+- added virtualbox workaround for spectre/meltdown issue mitigation
+- added section and guidance to remove metadata from various files and tools
+- added reference to Haven app for physical security in OPSEC section
+- added recommendation to use systematic TOTP 2FA for online identities when possible
+- added references to deepfakes, facial recognition and fingerprint recognition in biometric threats
+v0.4.6 Added link to Shodan to Smart Devices Section, Full rewrite of data wipe sections (especially SSDs)
+v0.4.5 Improved SSD/HDD erasure section and some spelling fixes.
+v0.4.x Added Backup methods, OPSec tricks, Malicious USB, Printers and various fixes
+v0.3.x Added MacOS information and various fixes
+v0.2.x Added Qubes OS information and various fixes
+v0.1.x Initial Release (missing Qubes OS details and MacOS support)
