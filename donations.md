@@ -1,4 +1,4 @@
-Anonymous Donations to support this project are welcome (I'm definitely not a tech billionaire/millionaire and my budget is actually quite limited).
+Anonymous Donations to support this project are welcome (I'm definitely not a tech billionaire/millionaire and my budget is actually quite limited). Please do verify the checksum and gpg signature of this file for authenticity. 
 
 Since this is about anonymity, I will only accept crypto donations using Monero (since it's the best available option for anonymity) donations to this address:
 
